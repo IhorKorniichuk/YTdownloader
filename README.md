@@ -81,4 +81,3 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Replace `screenshot1.png`, `screenshot2.png`, etc., with the actual filenames of your screenshots. Add more screenshots and captions as needed.
