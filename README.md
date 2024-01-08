@@ -56,6 +56,16 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 4. The progress bar will indicate the download status.
 5. Once the download is complete, a success message will be displayed.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Caption for Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Caption for Screenshot 2*
+
+<!-- Add more screenshots with captions as needed -->
+
 ## Dependencies
 
 - [pytube](https://github.com/pytube/pytube): Used for downloading YouTube videos.
@@ -65,4 +75,4 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to customize the content according to your project's specific details and requirements.
+Replace `screenshot1.png`, `screenshot2.png`, etc., with the actual filenames of your screenshots. Add more screenshots and captions as needed.
