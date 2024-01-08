@@ -64,6 +64,12 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 ![Screenshot 2](screenshots/2.png)
 
 
+![Screenshot 2](screenshots/3.png)
+
+
+![Screenshot 2](screenshots/4.png)
+
+
 <!-- Add more screenshots with captions as needed -->
 
 ## Dependencies
