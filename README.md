@@ -78,6 +78,6 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Feel free to modify this program
 
 
