@@ -33,7 +33,7 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 3. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-video-downloader.git
+   git clone https://github.com/IhorKorniichuk/YTdownloader.git
    ```
 
 4. Change to the project directory:
