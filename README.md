@@ -1,6 +1,3 @@
-Certainly! Below is a sample `README.md` file for your YouTube Video Downloader project:
-
-```markdown
 # YouTube Video Downloader
 
 A simple and modern YouTube video downloader with a dark theme and cyan blue neon fonts.
@@ -32,41 +29,3 @@ This YouTube Video Downloader is a Python application that allows you to downloa
 
    ```bash
    pip install pytube
-   ```
-
-3. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/youtube-video-downloader.git
-   ```
-
-4. Change to the project directory:
-
-   ```bash
-   cd youtube-video-downloader
-   ```
-
-5. Run the application:
-
-   ```bash
-   python main.py
-   ```
-
-## Usage
-
-1. Enter the YouTube video URL in the provided entry field.
-2. Select the desired video quality and file type from the dropdown menus.
-3. Click the "Download" button to initiate the download.
-4. The progress bar will indicate the download status.
-5. Once the download is complete, a success message will be displayed.
-
-## Dependencies
-
-- [pytube](https://github.com/pytube/pytube): Used for downloading YouTube videos.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize the content according to your project's specific details and requirements.
